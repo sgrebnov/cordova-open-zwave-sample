@@ -17,19 +17,35 @@
             }],
         execute: function() {
             AppComponent = (function () {
-                function AppComponent() {
-                    this.title = 'Angular2';
-                    this.dateDayMonthYearString = '';
-                    var today = new Date();
-                    var dateDayMonthYear = "The current date is " + today.toLocaleDateString() + ".";
-                    this.dateDayMonthYearString = dateDayMonthYear;
+                function AppComponent(_ngZone) {
+                    this._ngZone = _ngZone;
+                    this.devices = [];
+                    console.log('typeof _ngZone = ' + typeof _ngZone);
+                    cordova.plugins.OpenZWave.connectFake("COM1", this.handleCollectionUpdate.bind(this), this.handleOpenZWaveFailure.bind(this));
                 }
+                AppComponent.prototype.handleCollectionUpdate = function (deviceCollection) {
+                    console.log(JSON.stringify(deviceCollection));
+                    deviceCollection = deviceCollection.filter(function (node) { return typeof node.manufacturer !== 'undefined'; });
+                    var me = this;
+                    this._ngZone.run(function () {
+                        me.devices = deviceCollection;
+                    });
+                };
+                AppComponent.prototype.handleOpenZWaveFailure = function (err) {
+                    navigator.notification.alert('OpenZWave faied: ' + err.message);
+                };
+                AppComponent.prototype.connect = function (device) {
+                    navigator.notification.alert('Connect: ' + JSON.stringify({
+                        nodeId: device.nodeId,
+                        homeId: device.homeId
+                    }));
+                };
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'test-app',
                         templateUrl: 'scripts/app.component.html'
                     }), 
-                    __metadata('design:paramtypes', [])
+                    __metadata('design:paramtypes', [core_1.NgZone])
                 ], AppComponent);
                 return AppComponent;
             })();

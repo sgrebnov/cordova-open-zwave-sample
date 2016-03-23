@@ -8,7 +8,7 @@
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
   <Identity Name="io.cordova.myapp52a830" Publisher="CN=Apache Cordova Team" Version="1.0.1.0" ProcessorArchitecture="x64" />
-  <mp:PhoneIdentity PhoneProductId="71c3d1d0-f104-11e5-83a3-b12f5eb5d95d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <mp:PhoneIdentity PhoneProductId="72a36920-f114-11e5-82a6-0b69174499a4" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>cordova_angular2beta_starter</DisplayName>
     <PublisherDisplayName>Dean Biele</PublisherDisplayName>

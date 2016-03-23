@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>71c3d1d0-f104-11e5-83a3-b12f5eb5d95d</PackageIdentityName>
+    <PackageIdentityName>72a36920-f114-11e5-82a6-0b69174499a4</PackageIdentityName>
     <IntermediateOutputPath>C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\build\windows\bld\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
@@ -87,6 +87,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-open-zwave\www\OpenZWave.js">
       <PackagePath>www\plugins\cordova-open-zwave\www\OpenZWave.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.component.js">
       <PackagePath>www\scripts\app.component.js</PackagePath>
