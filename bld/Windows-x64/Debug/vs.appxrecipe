@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\build\windows\debug\x64\win10\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-23T17:06:56.893</Modified>
+      <Modified>2016-03-23T17:13:56.196</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -32,26 +32,26 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\x64\debug\OpenZWaveProxy\OZWProxy.dll">
       <PackagePath>OZWProxy.dll</PackagePath>
-      <Modified>2016-03-23T17:06:55.433</Modified>
+      <Modified>2016-03-23T17:13:54.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\SplashScreen.scale-100.png">
       <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-23T17:06:51.358</Modified>
+      <Modified>2016-03-23T17:13:50.610</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square150x150Logo.scale-100.png">
       <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-23T17:06:51.345</Modified>
+      <Modified>2016-03-23T17:13:50.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square30x30Logo.scale-100.png">
       <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
-      <Modified>2016-03-23T17:06:51.347</Modified>
+      <Modified>2016-03-23T17:13:50.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-23T17:06:51.348</Modified>
+      <Modified>2016-03-23T17:13:50.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square44x44Logo.scale-100.png">
       <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
@@ -60,7 +60,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
-      <Modified>2016-03-23T17:06:51.351</Modified>
+      <Modified>2016-03-23T17:13:50.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square71x71Logo.scale-100.png">
       <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
@@ -70,472 +70,472 @@
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\StoreLogo.scale-100.png">
       <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-23T17:06:51.353</Modified>
+      <Modified>2016-03-23T17:13:50.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Wide310x150Logo.scale-100.png">
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-23T17:06:51.356</Modified>
+      <Modified>2016-03-23T17:13:50.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_abspolarity.mp3">
       <PackagePath>www\audio\audiocheck.net_abspolarity.mp3</PackagePath>
-      <Modified>2016-03-23T17:06:49.684</Modified>
+      <Modified>2016-03-23T17:13:48.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_linearfrequencytest.mp3">
       <PackagePath>www\audio\audiocheck.net_linearfrequencytest.mp3</PackagePath>
-      <Modified>2016-03-23T17:06:49.691</Modified>
+      <Modified>2016-03-23T17:13:48.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_abspolarity.ogg">
       <PackagePath>www\audio\audiocheck.net_abspolarity.ogg</PackagePath>
-      <Modified>2016-03-23T17:06:49.687</Modified>
+      <Modified>2016-03-23T17:13:48.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_linearfrequencytest.ogg">
       <PackagePath>www\audio\audiocheck.net_linearfrequencytest.ogg</PackagePath>
-      <Modified>2016-03-23T17:06:49.694</Modified>
+      <Modified>2016-03-23T17:13:48.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova-js-src\exec.js">
       <PackagePath>www\cordova-js-src\exec.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.513</Modified>
+      <Modified>2016-03-23T17:13:50.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova-js-src\platform.js">
       <PackagePath>www\cordova-js-src\platform.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.513</Modified>
+      <Modified>2016-03-23T17:13:50.757</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.179</Modified>
+      <Modified>2016-03-23T17:13:50.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.514</Modified>
+      <Modified>2016-03-23T17:13:50.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-open-zwave\src\windows\OpenZWaveProxy.js">
       <PackagePath>www\plugins\cordova-open-zwave\src\windows\OpenZWaveProxy.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.521</Modified>
+      <Modified>2016-03-23T17:13:50.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-open-zwave\www\OpenZWave.js">
       <PackagePath>www\plugins\cordova-open-zwave\www\OpenZWave.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.522</Modified>
+      <Modified>2016-03-23T17:13:50.766</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.523</Modified>
+      <Modified>2016-03-23T17:13:50.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.524</Modified>
+      <Modified>2016-03-23T17:13:50.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.component.js">
       <PackagePath>www\scripts\app.component.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.537</Modified>
+      <Modified>2016-03-23T17:13:50.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.js">
       <PackagePath>www\scripts\app.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.542</Modified>
+      <Modified>2016-03-23T17:13:50.773</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\app.component.js">
       <PackagePath>www\scripts\app\app.component.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.525</Modified>
+      <Modified>2016-03-23T17:13:50.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\audio\audiohandler.js">
       <PackagePath>www\scripts\app\audio\audiohandler.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.526</Modified>
+      <Modified>2016-03-23T17:13:50.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\components\jasmineunit.js">
       <PackagePath>www\scripts\app\components\jasmineunit.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.527</Modified>
+      <Modified>2016-03-23T17:13:50.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\config.js">
       <PackagePath>www\scripts\config.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.543</Modified>
+      <Modified>2016-03-23T17:13:50.776</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\index.js">
       <PackagePath>www\scripts\index.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.549</Modified>
+      <Modified>2016-03-23T17:13:50.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all-testing.umd.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2-all-testing.umd.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.698</Modified>
+      <Modified>2016-03-23T17:13:50.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all.umd.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2-all.umd.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.841</Modified>
+      <Modified>2016-03-23T17:13:51.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all.umd.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2-all.umd.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.947</Modified>
+      <Modified>2016-03-23T17:13:51.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all.umd.min.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2-all.umd.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.027</Modified>
+      <Modified>2016-03-23T17:13:51.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-polyfills.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2-polyfills.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.043</Modified>
+      <Modified>2016-03-23T17:13:51.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-polyfills.min.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2-polyfills.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.061</Modified>
+      <Modified>2016-03-23T17:13:51.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.152</Modified>
+      <Modified>2016-03-23T17:13:51.371</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.242</Modified>
+      <Modified>2016-03-23T17:13:51.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2.min.js">
       <PackagePath>www\scripts\lib\angular2\bundles\angular2.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.321</Modified>
+      <Modified>2016-03-23T17:13:51.540</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\http.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\http.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.332</Modified>
+      <Modified>2016-03-23T17:13:51.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\http.js">
       <PackagePath>www\scripts\lib\angular2\bundles\http.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.343</Modified>
+      <Modified>2016-03-23T17:13:51.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\http.min.js">
       <PackagePath>www\scripts\lib\angular2\bundles\http.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.356</Modified>
+      <Modified>2016-03-23T17:13:51.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\router.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\router.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.383</Modified>
+      <Modified>2016-03-23T17:13:51.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\router.js">
       <PackagePath>www\scripts\lib\angular2\bundles\router.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.401</Modified>
+      <Modified>2016-03-23T17:13:51.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\router.min.js">
       <PackagePath>www\scripts\lib\angular2\bundles\router.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.435</Modified>
+      <Modified>2016-03-23T17:13:51.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\testing.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\testing.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.452</Modified>
+      <Modified>2016-03-23T17:13:51.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\upgrade.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\upgrade.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.462</Modified>
+      <Modified>2016-03-23T17:13:51.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\upgrade.js">
       <PackagePath>www\scripts\lib\angular2\bundles\upgrade.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.472</Modified>
+      <Modified>2016-03-23T17:13:51.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\upgrade.min.js">
       <PackagePath>www\scripts\lib\angular2\bundles\upgrade.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.489</Modified>
+      <Modified>2016-03-23T17:13:51.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\web_worker\ui.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\web_worker\ui.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.569</Modified>
+      <Modified>2016-03-23T17:13:51.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\web_worker\worker.dev.js">
       <PackagePath>www\scripts\lib\angular2\bundles\web_worker\worker.dev.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.689</Modified>
+      <Modified>2016-03-23T17:13:51.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser.js">
       <PackagePath>www\scripts\lib\angular2\platform2\browser.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.694</Modified>
+      <Modified>2016-03-23T17:13:51.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser_static.js">
       <PackagePath>www\scripts\lib\angular2\platform2\browser_static.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.695</Modified>
+      <Modified>2016-03-23T17:13:51.933</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\common_dom.js">
       <PackagePath>www\scripts\lib\angular2\platform2\common_dom.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.696</Modified>
+      <Modified>2016-03-23T17:13:51.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\server.js">
       <PackagePath>www\scripts\lib\angular2\platform2\server.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.697</Modified>
+      <Modified>2016-03-23T17:13:51.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_app.js">
       <PackagePath>www\scripts\lib\angular2\platform2\worker_app.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.697</Modified>
+      <Modified>2016-03-23T17:13:51.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_render.js">
       <PackagePath>www\scripts\lib\angular2\platform2\worker_render.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.698</Modified>
+      <Modified>2016-03-23T17:13:51.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.combined.js">
       <PackagePath>www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.combined.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.707</Modified>
+      <Modified>2016-03-23T17:13:51.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.min.js">
       <PackagePath>www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.708</Modified>
+      <Modified>2016-03-23T17:13:51.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\soundjs-0.6.2.combined.js">
       <PackagePath>www\scripts\lib\createjs\soundjs-0.6.2.combined.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.726</Modified>
+      <Modified>2016-03-23T17:13:51.964</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\soundjs-0.6.2.min.js">
       <PackagePath>www\scripts\lib\createjs\soundjs-0.6.2.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.760</Modified>
+      <Modified>2016-03-23T17:13:51.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-sham.js">
       <PackagePath>www\scripts\lib\es6-shim\es6-sham.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.766</Modified>
+      <Modified>2016-03-23T17:13:51.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-sham.min.js">
       <PackagePath>www\scripts\lib\es6-shim\es6-sham.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.773</Modified>
+      <Modified>2016-03-23T17:13:52.004</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-shim.js">
       <PackagePath>www\scripts\lib\es6-shim\es6-shim.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.791</Modified>
+      <Modified>2016-03-23T17:13:52.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-shim.min.js">
       <PackagePath>www\scripts\lib\es6-shim\es6-shim.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.809</Modified>
+      <Modified>2016-03-23T17:13:52.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.js">
       <PackagePath>www\scripts\lib\rxjs\bundles\Rx.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.842</Modified>
+      <Modified>2016-03-23T17:13:52.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.min.js">
       <PackagePath>www\scripts\lib\rxjs\bundles\Rx.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.872</Modified>
+      <Modified>2016-03-23T17:13:52.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.umd.js">
       <PackagePath>www\scripts\lib\rxjs\bundles\Rx.umd.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.906</Modified>
+      <Modified>2016-03-23T17:13:52.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.umd.min.js">
       <PackagePath>www\scripts\lib\rxjs\bundles\Rx.umd.min.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.938</Modified>
+      <Modified>2016-03-23T17:13:52.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-csp-production.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system-csp-production.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.973</Modified>
+      <Modified>2016-03-23T17:13:52.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-csp-production.src.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system-csp-production.src.js</PackagePath>
-      <Modified>2016-03-23T17:06:52.989</Modified>
+      <Modified>2016-03-23T17:13:52.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-polyfills.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system-polyfills.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.007</Modified>
+      <Modified>2016-03-23T17:13:52.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-polyfills.src.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system-polyfills.src.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.018</Modified>
+      <Modified>2016-03-23T17:13:52.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-register-only.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system-register-only.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.036</Modified>
+      <Modified>2016-03-23T17:13:52.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-register-only.src.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system-register-only.src.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.048</Modified>
+      <Modified>2016-03-23T17:13:52.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.085</Modified>
+      <Modified>2016-03-23T17:13:52.398</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system.src.js">
       <PackagePath>www\scripts\lib\systemjs\dist\system.src.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.102</Modified>
+      <Modified>2016-03-23T17:13:52.416</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\mobiledeviceoverride.js">
       <PackagePath>www\scripts\mobiledeviceoverride.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.107</Modified>
+      <Modified>2016-03-23T17:13:52.417</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\platformOverrides.js">
       <PackagePath>www\scripts\platformOverrides.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.256</Modified>
+      <Modified>2016-03-23T17:13:50.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\start.js">
       <PackagePath>www\scripts\start.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.107</Modified>
+      <Modified>2016-03-23T17:13:52.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\system-polyfills.js">
       <PackagePath>www\scripts\system-polyfills.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.126</Modified>
+      <Modified>2016-03-23T17:13:52.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\app.components.spec.js">
       <PackagePath>www\scripts\tests\e2e\app\app.components.spec.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.127</Modified>
+      <Modified>2016-03-23T17:13:52.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\problem.js">
       <PackagePath>www\scripts\tests\e2e\app\problem.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.127</Modified>
+      <Modified>2016-03-23T17:13:52.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\e2e_util.js">
       <PackagePath>www\scripts\tests\e2e\e2e_util.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.128</Modified>
+      <Modified>2016-03-23T17:13:52.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\unit\app\components\jasmineunit.spec.js">
       <PackagePath>www\scripts\tests\unit\app\components\jasmineunit.spec.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.134</Modified>
+      <Modified>2016-03-23T17:13:52.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\util\hockeyappservices.js">
       <PackagePath>www\scripts\util\hockeyappservices.js</PackagePath>
-      <Modified>2016-03-23T17:06:53.135</Modified>
+      <Modified>2016-03-23T17:13:52.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\winstore-jscompat.js">
       <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.283</Modified>
+      <Modified>2016-03-23T17:13:50.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\WinJS\js\base.js">
       <PackagePath>www\WinJS\js\base.js</PackagePath>
-      <Modified>2016-03-23T17:06:51.251</Modified>
+      <Modified>2016-03-23T17:13:50.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\css\index.css">
       <PackagePath>www\css\index.css</PackagePath>
-      <Modified>2016-03-23T17:06:49.699</Modified>
+      <Modified>2016-03-23T17:13:48.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\favicon.ico">
       <PackagePath>www\favicon.ico</PackagePath>
-      <Modified>2016-03-23T17:06:49.700</Modified>
+      <Modified>2016-03-23T17:13:48.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2016-03-23T17:06:49.701</Modified>
+      <Modified>2016-03-23T17:13:48.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.component.html">
       <PackagePath>www\scripts\app.component.html</PackagePath>
-      <Modified>2016-03-23T17:06:51.527</Modified>
+      <Modified>2016-03-23T17:13:50.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.component.js.map">
       <PackagePath>www\scripts\app.component.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:49.726</Modified>
+      <Modified>2016-03-23T17:13:48.930</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.js.map">
       <PackagePath>www\scripts\app.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:49.728</Modified>
+      <Modified>2016-03-23T17:13:48.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\app.component.js.map">
       <PackagePath>www\scripts\app\app.component.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:49.711</Modified>
+      <Modified>2016-03-23T17:13:48.919</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\audio\audiohandler.js.map">
       <PackagePath>www\scripts\app\audio\audiohandler.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:49.716</Modified>
+      <Modified>2016-03-23T17:13:48.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\components\jasmineunit.js.map">
       <PackagePath>www\scripts\app\components\jasmineunit.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:49.723</Modified>
+      <Modified>2016-03-23T17:13:48.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\config.js.map">
       <PackagePath>www\scripts\config.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:49.730</Modified>
+      <Modified>2016-03-23T17:13:48.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\index.js.map">
       <PackagePath>www\scripts\index.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:49.731</Modified>
+      <Modified>2016-03-23T17:13:48.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\testing.dev.js.map">
       <PackagePath>www\scripts\lib\angular2\bundles\testing.dev.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:50.434</Modified>
+      <Modified>2016-03-23T17:13:49.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-sham.map">
       <PackagePath>www\scripts\lib\es6-shim\es6-sham.map</PackagePath>
-      <Modified>2016-03-23T17:06:50.758</Modified>
+      <Modified>2016-03-23T17:13:50.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-shim.map">
       <PackagePath>www\scripts\lib\es6-shim\es6-shim.map</PackagePath>
-      <Modified>2016-03-23T17:06:50.782</Modified>
+      <Modified>2016-03-23T17:13:50.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.min.js.map">
       <PackagePath>www\scripts\lib\rxjs\bundles\Rx.min.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:50.863</Modified>
+      <Modified>2016-03-23T17:13:50.146</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.umd.min.js.map">
       <PackagePath>www\scripts\lib\rxjs\bundles\Rx.umd.min.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:50.929</Modified>
+      <Modified>2016-03-23T17:13:50.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-csp-production.js.map">
       <PackagePath>www\scripts\lib\systemjs\dist\system-csp-production.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:50.967</Modified>
+      <Modified>2016-03-23T17:13:50.254</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-polyfills.js.map">
       <PackagePath>www\scripts\lib\systemjs\dist\system-polyfills.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.002</Modified>
+      <Modified>2016-03-23T17:13:50.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-register-only.js.map">
       <PackagePath>www\scripts\lib\systemjs\dist\system-register-only.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.033</Modified>
+      <Modified>2016-03-23T17:13:50.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system.js.map">
       <PackagePath>www\scripts\lib\systemjs\dist\system.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.102</Modified>
+      <Modified>2016-03-23T17:13:50.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\mobiledeviceoverride.js.map">
       <PackagePath>www\scripts\mobiledeviceoverride.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.137</Modified>
+      <Modified>2016-03-23T17:13:50.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\start.js.map">
       <PackagePath>www\scripts\start.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.140</Modified>
+      <Modified>2016-03-23T17:13:50.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\system-polyfills.js.map">
       <PackagePath>www\scripts\system-polyfills.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.277</Modified>
+      <Modified>2016-03-23T17:13:50.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\app.components.spec.js.map">
       <PackagePath>www\scripts\tests\e2e\app\app.components.spec.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.143</Modified>
+      <Modified>2016-03-23T17:13:50.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\problem.js.map">
       <PackagePath>www\scripts\tests\e2e\app\problem.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.147</Modified>
+      <Modified>2016-03-23T17:13:50.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\e2e_util.js.map">
       <PackagePath>www\scripts\tests\e2e\e2e_util.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.149</Modified>
+      <Modified>2016-03-23T17:13:50.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\unit\app\components\jasmineunit.spec.js.map">
       <PackagePath>www\scripts\tests\unit\app\components\jasmineunit.spec.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.157</Modified>
+      <Modified>2016-03-23T17:13:50.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\util\hockeyappservices.js.map">
       <PackagePath>www\scripts\util\hockeyappservices.js.map</PackagePath>
-      <Modified>2016-03-23T17:06:51.160</Modified>
+      <Modified>2016-03-23T17:13:50.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\overview.md">
       <PackagePath>www\scripts\lib\angular2\bundles\overview.md</PackagePath>
-      <Modified>2016-03-23T17:06:50.350</Modified>
+      <Modified>2016-03-23T17:13:49.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\typings\es6-shim\es6-shim.d.ts">
       <PackagePath>www\scripts\lib\angular2\bundles\typings\es6-shim\es6-shim.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.443</Modified>
+      <Modified>2016-03-23T17:13:49.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\typings\jasmine\jasmine.d.ts">
       <PackagePath>www\scripts\lib\angular2\bundles\typings\jasmine\jasmine.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.449</Modified>
+      <Modified>2016-03-23T17:13:49.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser.d.ts">
       <PackagePath>www\scripts\lib\angular2\platform2\browser.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.670</Modified>
+      <Modified>2016-03-23T17:13:49.933</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser_static.d.ts">
       <PackagePath>www\scripts\lib\angular2\platform2\browser_static.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.679</Modified>
+      <Modified>2016-03-23T17:13:49.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\common_dom.d.ts">
       <PackagePath>www\scripts\lib\angular2\platform2\common_dom.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.683</Modified>
+      <Modified>2016-03-23T17:13:49.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\server.d.ts">
       <PackagePath>www\scripts\lib\angular2\platform2\server.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.689</Modified>
+      <Modified>2016-03-23T17:13:49.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_app.d.ts">
       <PackagePath>www\scripts\lib\angular2\platform2\worker_app.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.690</Modified>
+      <Modified>2016-03-23T17:13:49.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_render.d.ts">
       <PackagePath>www\scripts\lib\angular2\platform2\worker_render.d.ts</PackagePath>
-      <Modified>2016-03-23T17:06:50.696</Modified>
+      <Modified>2016-03-23T17:13:49.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\config.xml">
       <PackagePath>config.xml</PackagePath>
-      <Modified>2016-03-23T17:06:49.630</Modified>
+      <Modified>2016-03-23T17:13:48.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\2gig\ct100.xml">
       <PackagePath>OpenZWave\config\2gig\ct100.xml</PackagePath>
@@ -1171,7 +1171,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\build\windows\debug\x64\win10\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-23T17:06:56.142</Modified>
+      <Modified>2016-03-23T17:13:55.434</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

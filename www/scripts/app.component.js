@@ -21,7 +21,7 @@ System.register(['angular2/core'], function(exports_1) {
                     this._ngZone = _ngZone;
                     this.devices = [];
                     console.log('typeof _ngZone = ' + typeof _ngZone);
-                    cordova.plugins.OpenZWave.connectFake("COM1", this.handleCollectionUpdate.bind(this), this.handleOpenZWaveFailure.bind(this));
+                    cordova.plugins.OpenZWave.connect("COM1", this.handleCollectionUpdate.bind(this), this.handleOpenZWaveFailure.bind(this));
                 }
                 AppComponent.prototype.handleCollectionUpdate = function (deviceCollection) {
                     console.log(JSON.stringify(deviceCollection));
