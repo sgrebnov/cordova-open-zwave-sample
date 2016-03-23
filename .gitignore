@@ -5,3 +5,5 @@
 [Pp]lugins/remote_ios.json
 [Pp]latforms/
 /node_modules/
+*.jsproj.user
+/.vs/

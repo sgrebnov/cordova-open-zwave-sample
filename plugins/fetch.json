@@ -1,0 +1,11 @@
+{
+    "cordova-open-zwave": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/vladimir-kotikov/cordova-open-zwave",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

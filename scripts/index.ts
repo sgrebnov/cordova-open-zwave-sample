@@ -1,4 +1,5 @@
-﻿import {appExternalModuleTest} from './app';
+﻿import {bootstrap}    from 'angular2/platform/browser';
+import {AppComponent} from './app.component';
 
 /**
  * Called from start.ts after systemjs bootstap
@@ -20,5 +21,5 @@ function initializeCordova(): void {
 
 function onDeviceReady(): void {
     console.log('Cordova: on device ready');
-    appExternalModuleTest();
+    bootstrap(AppComponent);
 }

@@ -101,4 +101,5 @@
       <vs:name>cordova_angular2beta_starter</vs:name>
     </vs:platformSpecificWidget>
   </vs:platformSpecificValues>
+  <plugin name="cordova-open-zwave" version="0.0.1" src="https://github.com/vladimir-kotikov/cordova-open-zwave" />
 </widget>
