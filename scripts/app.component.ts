@@ -9,8 +9,7 @@ export class AppComponent {
     devices: Array<any> = []
     constructor(private _ngZone: NgZone) {
 
-        console.log('typeof _ngZone = ' + typeof _ngZone);
-        (<any>cordova).plugins.OpenZWave.connect("COM1", this.handleCollectionUpdate.bind(this), this.handleOpenZWaveFailure.bind(this));
+        (<any>cordova).plugins.OpenZWave.connectFake("COM1", this.handleCollectionUpdate.bind(this), this.handleOpenZWaveFailure.bind(this));
     }
 
     handleCollectionUpdate(deviceCollection: Array<any>): void {

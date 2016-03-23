@@ -1,0 +1,910 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>V-SEGREB</Machine>
+    <WindowsUser>serge</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>72a36920-f114-11e5-82a6-0b69174499a4</PackageIdentityName>
+    <IntermediateOutputPath>C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\build\windows\debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\x64\debug\OpenZWaveProxy\OZWProxy.winmd">
+      <PackagePath>OZWProxy.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\x64\debug\OpenZWaveProxy\OZWProxy.dll">
+      <PackagePath>OZWProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_abspolarity.mp3">
+      <PackagePath>www\audio\audiocheck.net_abspolarity.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_linearfrequencytest.mp3">
+      <PackagePath>www\audio\audiocheck.net_linearfrequencytest.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_abspolarity.ogg">
+      <PackagePath>www\audio\audiocheck.net_abspolarity.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\audio\audiocheck.net_linearfrequencytest.ogg">
+      <PackagePath>www\audio\audiocheck.net_linearfrequencytest.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-open-zwave\src\windows\OpenZWaveProxy.js">
+      <PackagePath>www\plugins\cordova-open-zwave\src\windows\OpenZWaveProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-open-zwave\www\OpenZWave.js">
+      <PackagePath>www\plugins\cordova-open-zwave\www\OpenZWave.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.component.js">
+      <PackagePath>www\scripts\app.component.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.js">
+      <PackagePath>www\scripts\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\app.component.js">
+      <PackagePath>www\scripts\app\app.component.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\audio\audiohandler.js">
+      <PackagePath>www\scripts\app\audio\audiohandler.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\components\jasmineunit.js">
+      <PackagePath>www\scripts\app\components\jasmineunit.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\config.js">
+      <PackagePath>www\scripts\config.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all-testing.umd.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2-all-testing.umd.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all.umd.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2-all.umd.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all.umd.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2-all.umd.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-all.umd.min.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2-all.umd.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-polyfills.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2-polyfills.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2-polyfills.min.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2-polyfills.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\angular2.min.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\angular2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\http.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\http.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\http.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\http.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\http.min.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\http.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\router.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\router.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\router.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\router.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\router.min.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\router.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\testing.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\testing.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\upgrade.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\upgrade.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\upgrade.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\upgrade.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\upgrade.min.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\upgrade.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\web_worker\ui.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\web_worker\ui.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\web_worker\worker.dev.js">
+      <PackagePath>www\scripts\lib\angular2\bundles\web_worker\worker.dev.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser.js">
+      <PackagePath>www\scripts\lib\angular2\platform2\browser.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser_static.js">
+      <PackagePath>www\scripts\lib\angular2\platform2\browser_static.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\common_dom.js">
+      <PackagePath>www\scripts\lib\angular2\platform2\common_dom.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\server.js">
+      <PackagePath>www\scripts\lib\angular2\platform2\server.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_app.js">
+      <PackagePath>www\scripts\lib\angular2\platform2\worker_app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_render.js">
+      <PackagePath>www\scripts\lib\angular2\platform2\worker_render.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.combined.js">
+      <PackagePath>www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.combined.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.min.js">
+      <PackagePath>www\scripts\lib\createjs\cordovaaudioplugin-0.6.2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\soundjs-0.6.2.combined.js">
+      <PackagePath>www\scripts\lib\createjs\soundjs-0.6.2.combined.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\createjs\soundjs-0.6.2.min.js">
+      <PackagePath>www\scripts\lib\createjs\soundjs-0.6.2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-sham.js">
+      <PackagePath>www\scripts\lib\es6-shim\es6-sham.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-sham.min.js">
+      <PackagePath>www\scripts\lib\es6-shim\es6-sham.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-shim.js">
+      <PackagePath>www\scripts\lib\es6-shim\es6-shim.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-shim.min.js">
+      <PackagePath>www\scripts\lib\es6-shim\es6-shim.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.js">
+      <PackagePath>www\scripts\lib\rxjs\bundles\Rx.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.min.js">
+      <PackagePath>www\scripts\lib\rxjs\bundles\Rx.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.umd.js">
+      <PackagePath>www\scripts\lib\rxjs\bundles\Rx.umd.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.umd.min.js">
+      <PackagePath>www\scripts\lib\rxjs\bundles\Rx.umd.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-csp-production.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-csp-production.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-csp-production.src.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-csp-production.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-polyfills.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-polyfills.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-polyfills.src.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-polyfills.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-register-only.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-register-only.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-register-only.src.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-register-only.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system.src.js">
+      <PackagePath>www\scripts\lib\systemjs\dist\system.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\mobiledeviceoverride.js">
+      <PackagePath>www\scripts\mobiledeviceoverride.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\start.js">
+      <PackagePath>www\scripts\start.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\system-polyfills.js">
+      <PackagePath>www\scripts\system-polyfills.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\app.components.spec.js">
+      <PackagePath>www\scripts\tests\e2e\app\app.components.spec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\problem.js">
+      <PackagePath>www\scripts\tests\e2e\app\problem.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\e2e_util.js">
+      <PackagePath>www\scripts\tests\e2e\e2e_util.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\unit\app\components\jasmineunit.spec.js">
+      <PackagePath>www\scripts\tests\unit\app\components\jasmineunit.spec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\util\hockeyappservices.js">
+      <PackagePath>www\scripts\util\hockeyappservices.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\favicon.ico">
+      <PackagePath>www\favicon.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.component.html">
+      <PackagePath>www\scripts\app.component.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.component.js.map">
+      <PackagePath>www\scripts\app.component.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app.js.map">
+      <PackagePath>www\scripts\app.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\app.component.js.map">
+      <PackagePath>www\scripts\app\app.component.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\audio\audiohandler.js.map">
+      <PackagePath>www\scripts\app\audio\audiohandler.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\app\components\jasmineunit.js.map">
+      <PackagePath>www\scripts\app\components\jasmineunit.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\config.js.map">
+      <PackagePath>www\scripts\config.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\index.js.map">
+      <PackagePath>www\scripts\index.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\testing.dev.js.map">
+      <PackagePath>www\scripts\lib\angular2\bundles\testing.dev.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-sham.map">
+      <PackagePath>www\scripts\lib\es6-shim\es6-sham.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\es6-shim\es6-shim.map">
+      <PackagePath>www\scripts\lib\es6-shim\es6-shim.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.min.js.map">
+      <PackagePath>www\scripts\lib\rxjs\bundles\Rx.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\rxjs\bundles\Rx.umd.min.js.map">
+      <PackagePath>www\scripts\lib\rxjs\bundles\Rx.umd.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-csp-production.js.map">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-csp-production.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-polyfills.js.map">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-polyfills.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system-register-only.js.map">
+      <PackagePath>www\scripts\lib\systemjs\dist\system-register-only.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\systemjs\dist\system.js.map">
+      <PackagePath>www\scripts\lib\systemjs\dist\system.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\mobiledeviceoverride.js.map">
+      <PackagePath>www\scripts\mobiledeviceoverride.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\start.js.map">
+      <PackagePath>www\scripts\start.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\system-polyfills.js.map">
+      <PackagePath>www\scripts\system-polyfills.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\app.components.spec.js.map">
+      <PackagePath>www\scripts\tests\e2e\app\app.components.spec.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\app\problem.js.map">
+      <PackagePath>www\scripts\tests\e2e\app\problem.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\e2e\e2e_util.js.map">
+      <PackagePath>www\scripts\tests\e2e\e2e_util.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\tests\unit\app\components\jasmineunit.spec.js.map">
+      <PackagePath>www\scripts\tests\unit\app\components\jasmineunit.spec.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\util\hockeyappservices.js.map">
+      <PackagePath>www\scripts\util\hockeyappservices.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\overview.md">
+      <PackagePath>www\scripts\lib\angular2\bundles\overview.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\typings\es6-shim\es6-shim.d.ts">
+      <PackagePath>www\scripts\lib\angular2\bundles\typings\es6-shim\es6-shim.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\bundles\typings\jasmine\jasmine.d.ts">
+      <PackagePath>www\scripts\lib\angular2\bundles\typings\jasmine\jasmine.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser.d.ts">
+      <PackagePath>www\scripts\lib\angular2\platform2\browser.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\browser_static.d.ts">
+      <PackagePath>www\scripts\lib\angular2\platform2\browser_static.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\common_dom.d.ts">
+      <PackagePath>www\scripts\lib\angular2\platform2\common_dom.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\server.d.ts">
+      <PackagePath>www\scripts\lib\angular2\platform2\server.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_app.d.ts">
+      <PackagePath>www\scripts\lib\angular2\platform2\worker_app.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\www\scripts\lib\angular2\platform2\worker_render.d.ts">
+      <PackagePath>www\scripts\lib\angular2\platform2\worker_render.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\2gig\ct100.xml">
+      <PackagePath>OpenZWave\config\2gig\ct100.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\2gig\ct101.xml">
+      <PackagePath>OpenZWave\config\2gig\ct101.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\2gig\ct30.xml">
+      <PackagePath>OpenZWave\config\2gig\ct30.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\act\lfm20.xml">
+      <PackagePath>OpenZWave\config\act\lfm20.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\act\zdm230.xml">
+      <PackagePath>OpenZWave\config\act\zdm230.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\act\zdw103.xml">
+      <PackagePath>OpenZWave\config\act\zdw103.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\act\zdw232.xml">
+      <PackagePath>OpenZWave\config\act\zdw232.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\act\zir010.xml">
+      <PackagePath>OpenZWave\config\act\zir010.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\act\zrp110.xml">
+      <PackagePath>OpenZWave\config\act\zrp110.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\act\zrw103.xml">
+      <PackagePath>OpenZWave\config\act\zrw103.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\alms.xml">
+      <PackagePath>OpenZWave\config\aeotec\alms.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\doorwindow.xml">
+      <PackagePath>OpenZWave\config\aeotec\doorwindow.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\dsd31.xml">
+      <PackagePath>OpenZWave\config\aeotec\dsd31.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\hdss_gen5.xml">
+      <PackagePath>OpenZWave\config\aeotec\hdss_gen5.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\hem.xml">
+      <PackagePath>OpenZWave\config\aeotec\hem.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\hemg2.xml">
+      <PackagePath>OpenZWave\config\aeotec\hemg2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\keyfob.xml">
+      <PackagePath>OpenZWave\config\aeotec\keyfob.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\keyfob2.xml">
+      <PackagePath>OpenZWave\config\aeotec\keyfob2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\minimote.xml">
+      <PackagePath>OpenZWave\config\aeotec\minimote.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\msesv2.xml">
+      <PackagePath>OpenZWave\config\aeotec\msesv2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\multisensor_gen5.xml">
+      <PackagePath>OpenZWave\config\aeotec\multisensor_gen5.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\panicbtn.xml">
+      <PackagePath>OpenZWave\config\aeotec\panicbtn.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\recessed_doorsensor.xml">
+      <PackagePath>OpenZWave\config\aeotec\recessed_doorsensor.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\recessed_doorsensor_gen5.xml">
+      <PackagePath>OpenZWave\config\aeotec\recessed_doorsensor_gen5.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\ses.xml">
+      <PackagePath>OpenZWave\config\aeotec\ses.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\ses2.xml">
+      <PackagePath>OpenZWave\config\aeotec\ses2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\aeotec\watersensor.xml">
+      <PackagePath>OpenZWave\config\aeotec\watersensor.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\assa_abloy\RealLivingCapTouch.xml">
+      <PackagePath>OpenZWave\config\assa_abloy\RealLivingCapTouch.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\1poleswitch.xml">
+      <PackagePath>OpenZWave\config\BeNext\1poleswitch.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\2poleswitch.xml">
+      <PackagePath>OpenZWave\config\BeNext\2poleswitch.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\AlarmSound.xml">
+      <PackagePath>OpenZWave\config\BeNext\AlarmSound.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\BuiltinDimmer.xml">
+      <PackagePath>OpenZWave\config\BeNext\BuiltinDimmer.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\DoorSensor.xml">
+      <PackagePath>OpenZWave\config\BeNext\DoorSensor.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\EnergySwitch.xml">
+      <PackagePath>OpenZWave\config\BeNext\EnergySwitch.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\Molite.xml">
+      <PackagePath>OpenZWave\config\BeNext\Molite.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\PluginDimmer.xml">
+      <PackagePath>OpenZWave\config\BeNext\PluginDimmer.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\SceneController.xml">
+      <PackagePath>OpenZWave\config\BeNext\SceneController.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\BeNext\TagReader.xml">
+      <PackagePath>OpenZWave\config\BeNext\TagReader.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\cooper\RF9505-T.xml">
+      <PackagePath>OpenZWave\config\cooper\RF9505-T.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\cooper\RF9540-N.xml">
+      <PackagePath>OpenZWave\config\cooper\RF9540-N.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\danfoss\living.xml">
+      <PackagePath>OpenZWave\config\danfoss\living.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\danfoss\z.xml">
+      <PackagePath>OpenZWave\config\danfoss\z.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\device_classes.xml">
+      <PackagePath>OpenZWave\config\device_classes.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\dragontech\wd-100.xml">
+      <PackagePath>OpenZWave\config\dragontech\wd-100.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\duwi\ZWES1000.xml">
+      <PackagePath>OpenZWave\config\duwi\ZWES1000.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\duwi\ZWESJ300.xml">
+      <PackagePath>OpenZWave\config\duwi\ZWESJ300.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\eurotronic\eur_stellaz.xml">
+      <PackagePath>OpenZWave\config\eurotronic\eur_stellaz.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspringct\hsm02.xml">
+      <PackagePath>OpenZWave\config\everspringct\hsm02.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\an145.xml">
+      <PackagePath>OpenZWave\config\everspring\an145.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\an158.xml">
+      <PackagePath>OpenZWave\config\everspring\an158.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\se812.xml">
+      <PackagePath>OpenZWave\config\everspring\se812.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\sf812.xml">
+      <PackagePath>OpenZWave\config\everspring\sf812.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\sm103.xml">
+      <PackagePath>OpenZWave\config\everspring\sm103.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\sp103.xml">
+      <PackagePath>OpenZWave\config\everspring\sp103.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\sp814.xml">
+      <PackagePath>OpenZWave\config\everspring\sp814.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\st814.xml">
+      <PackagePath>OpenZWave\config\everspring\st814.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\st815.xml">
+      <PackagePath>OpenZWave\config\everspring\st815.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\everspring\tse03.xml">
+      <PackagePath>OpenZWave\config\everspring\tse03.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\evolve\lrm-as.xml">
+      <PackagePath>OpenZWave\config\evolve\lrm-as.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\evolve\lsm-15.xml">
+      <PackagePath>OpenZWave\config\evolve\lsm-15.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\evolve\ltm-5.xml">
+      <PackagePath>OpenZWave\config\evolve\ltm-5.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgbs001.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgbs001.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgd211.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgd211.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgfs101.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgfs101.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgk001.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgk001.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgms.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgms.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgr221.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgr221.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgrgbwm441.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgrgbwm441.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgrm222.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgrm222.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgs211.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgs211.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgs212.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgs212.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgs221.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgs221.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgs222.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgs222.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgsd002.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgsd002.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgss101.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgss101.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\fibaro\fgwpe.xml">
+      <PackagePath>OpenZWave\config\fibaro\fgwpe.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\frostdale\fdn2nxx.xml">
+      <PackagePath>OpenZWave\config\frostdale\fdn2nxx.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\ge\dimmer.xml">
+      <PackagePath>OpenZWave\config\ge\dimmer.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\ge\dimmer_module.xml">
+      <PackagePath>OpenZWave\config\ge\dimmer_module.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\ge\relay.xml">
+      <PackagePath>OpenZWave\config\ge\relay.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\greenwave\powernode1.xml">
+      <PackagePath>OpenZWave\config\greenwave\powernode1.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\greenwave\powernode6.xml">
+      <PackagePath>OpenZWave\config\greenwave\powernode6.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\homeseer\hsm100.xml">
+      <PackagePath>OpenZWave\config\homeseer\hsm100.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\homeseer\ztroller.xml">
+      <PackagePath>OpenZWave\config\homeseer\ztroller.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\honeywell\th8320zw1000.xml">
+      <PackagePath>OpenZWave\config\honeywell\th8320zw1000.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\horstmann\hrt4zw.xml">
+      <PackagePath>OpenZWave\config\horstmann\hrt4zw.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\intermatic\ca8900.xml">
+      <PackagePath>OpenZWave\config\intermatic\ca8900.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\iris\rangeextender.xml">
+      <PackagePath>OpenZWave\config\iris\rangeextender.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\leviton\rzi10.xml">
+      <PackagePath>OpenZWave\config\leviton\rzi10.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\leviton\vrcpg.xml">
+      <PackagePath>OpenZWave\config\leviton\vrcpg.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\leviton\vrf01.xml">
+      <PackagePath>OpenZWave\config\leviton\vrf01.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\leviton\vri06.xml">
+      <PackagePath>OpenZWave\config\leviton\vri06.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\leviton\vri10.xml">
+      <PackagePath>OpenZWave\config\leviton\vri10.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\manufacturer_specific.xml">
+      <PackagePath>OpenZWave\config\manufacturer_specific.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\nodon\asp3100SmartPlug.xml">
+      <PackagePath>OpenZWave\config\nodon\asp3100SmartPlug.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\northq\nq92021.xml">
+      <PackagePath>OpenZWave\config\northq\nq92021.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\options.xml">
+      <PackagePath>OpenZWave\config\options.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\philio\pan04.xml">
+      <PackagePath>OpenZWave\config\philio\pan04.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\philio\psm02.xml">
+      <PackagePath>OpenZWave\config\philio\psm02.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\philio\pst02-1c.xml">
+      <PackagePath>OpenZWave\config\philio\pst02-1c.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\philio\pst02-b.xml">
+      <PackagePath>OpenZWave\config\philio\pst02-b.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\philio\pst02.xml">
+      <PackagePath>OpenZWave\config\philio\pst02.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\polycontrol\doorlock.xml">
+      <PackagePath>OpenZWave\config\polycontrol\doorlock.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\polycontrol\keypad.xml">
+      <PackagePath>OpenZWave\config\polycontrol\keypad.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\popp\123580.xml">
+      <PackagePath>OpenZWave\config\popp\123580.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\popp\123601.xml">
+      <PackagePath>OpenZWave\config\popp\123601.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\popp\123658.xml">
+      <PackagePath>OpenZWave\config\popp\123658.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\qees\reto-plugin-switch.xml">
+      <PackagePath>OpenZWave\config\qees\reto-plugin-switch.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\qubino\ZMNHAA2.xml">
+      <PackagePath>OpenZWave\config\qubino\ZMNHAA2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\qubino\ZMNHBA2.xml">
+      <PackagePath>OpenZWave\config\qubino\ZMNHBA2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\qubino\ZMNHCA2.xml">
+      <PackagePath>OpenZWave\config\qubino\ZMNHCA2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\qubino\ZMNHDA2.xml">
+      <PackagePath>OpenZWave\config\qubino\ZMNHDA2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\qubino\ZMNHIA2.xml">
+      <PackagePath>OpenZWave\config\qubino\ZMNHIA2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\qubino\ZMNHJA2.xml">
+      <PackagePath>OpenZWave\config\qubino\ZMNHJA2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\rcs\em52-zw.xml">
+      <PackagePath>OpenZWave\config\rcs\em52-zw.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\rcs\pm12-zw.xml">
+      <PackagePath>OpenZWave\config\rcs\pm12-zw.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\rcs\therm0005.xml">
+      <PackagePath>OpenZWave\config\rcs\therm0005.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\rcs\therm0007.xml">
+      <PackagePath>OpenZWave\config\rcs\therm0007.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\rcs\therm0009.xml">
+      <PackagePath>OpenZWave\config\rcs\therm0009.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\remotec\zfm-80.xml">
+      <PackagePath>OpenZWave\config\remotec\zfm-80.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\remotec\zurc.xml">
+      <PackagePath>OpenZWave\config\remotec\zurc.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\remotec\zxt-120.xml">
+      <PackagePath>OpenZWave\config\remotec\zxt-120.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\schlagelink\itemp.xml">
+      <PackagePath>OpenZWave\config\schlagelink\itemp.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\schlagelink\minikeypad.xml">
+      <PackagePath>OpenZWave\config\schlagelink\minikeypad.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\swiid\swiidinter.xml">
+      <PackagePath>OpenZWave\config\swiid\swiidinter.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\swiid\swiidplug.xml">
+      <PackagePath>OpenZWave\config\swiid\swiidplug.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\trane\TZEMT400AB32MAA.xml">
+      <PackagePath>OpenZWave\config\trane\TZEMT400AB32MAA.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\trane\TZEMT400BB32MAA.xml">
+      <PackagePath>OpenZWave\config\trane\TZEMT400BB32MAA.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\vision\zd2102.xml">
+      <PackagePath>OpenZWave\config\vision\zd2102.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\vision\zm1601eu.xml">
+      <PackagePath>OpenZWave\config\vision\zm1601eu.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\vision\zp3102.xml">
+      <PackagePath>OpenZWave\config\vision\zp3102.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\vision\zs5101eu.xml">
+      <PackagePath>OpenZWave\config\vision\zs5101eu.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\vitrum\vitrumBS.xml">
+      <PackagePath>OpenZWave\config\vitrum\vitrumBS.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\waynedalton\WDTC-20.xml">
+      <PackagePath>OpenZWave\config\waynedalton\WDTC-20.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\wenzhou\sm103.xml">
+      <PackagePath>OpenZWave\config\wenzhou\sm103.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\wenzhou\tsp01.xml">
+      <PackagePath>OpenZWave\config\wenzhou\tsp01.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\wenzhou\tz65d.xml">
+      <PackagePath>OpenZWave\config\wenzhou\tz65d.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\wenzhou\tz66d.xml">
+      <PackagePath>OpenZWave\config\wenzhou\tz66d.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\wenzhou\tz67.xml">
+      <PackagePath>OpenZWave\config\wenzhou\tz67.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\wenzhou\tz88.xml">
+      <PackagePath>OpenZWave\config\wenzhou\tz88.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\widom\UBS104.xml">
+      <PackagePath>OpenZWave\config\widom\UBS104.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zipato\MiniKeypad.xml">
+      <PackagePath>OpenZWave\config\zipato\MiniKeypad.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zipato\RGBBulb.xml">
+      <PackagePath>OpenZWave\config\zipato\RGBBulb.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\iTemp.xml">
+      <PackagePath>OpenZWave\config\zwave.me\iTemp.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\kfob.xml">
+      <PackagePath>OpenZWave\config\zwave.me\kfob.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\ZME_05431.xml">
+      <PackagePath>OpenZWave\config\zwave.me\ZME_05431.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\ZME_06433.xml">
+      <PackagePath>OpenZWave\config\zwave.me\ZME_06433.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\ZME_06436.xml">
+      <PackagePath>OpenZWave\config\zwave.me\ZME_06436.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\ZME_064435.xml">
+      <PackagePath>OpenZWave\config\zwave.me\ZME_064435.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\ZME_WALLC-S.xml">
+      <PackagePath>OpenZWave\config\zwave.me\ZME_WALLC-S.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwave.me\ZME_WCD2.xml">
+      <PackagePath>OpenZWave\config\zwave.me\ZME_WCD2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\device_classes.xsd">
+      <PackagePath>OpenZWave\config\device_classes.xsd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\device_configuration.xsd">
+      <PackagePath>OpenZWave\config\device_configuration.xsd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\manufacturer_specific.xsd">
+      <PackagePath>OpenZWave\config\manufacturer_specific.xsd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\options.xsd">
+      <PackagePath>OpenZWave\config\options.xsd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwcfg.xsd">
+      <PackagePath>OpenZWave\config\zwcfg.xsd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\config\zwscene.xsd">
+      <PackagePath>OpenZWave\config\zwscene.xsd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\src\aes\aes.txt">
+      <PackagePath>OpenZWave\aes.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\build\windows\debug\x64\win10\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\platforms\windows\CordovaApp.Windows10.jsproj;x64
+C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\OpenZWave.vcxproj;x64
+C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\OpenZWave.vcxproj;x64
+C:\partitions\d\Projetcs\msot\other\IoTApp\cordova-open-zwave-sample\plugins\cordova-open-zwave\lib\windows\open-zwave\build\winRT\vs2015\OpenZWaveProxy.vcxproj;x64
